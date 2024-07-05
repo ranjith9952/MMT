@@ -1,2 +1,8 @@
 Scenario 1 : Book the Train From Chennai to Salem
 Scenario 2 : Return Book Train From Salem to Chennai
+
+Scenario 3 :
+Scenario 4 :
+
+Scenario 5 :
+Scenario 6 :
